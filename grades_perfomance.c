@@ -26,6 +26,6 @@ case 2 : printf("good have to reah to milestone"); break;
 case 3 : printf("average can be better"); break;
 case 4: printf("need improvment"); break;
 default : printf("not valid");
-} // Thanks if any help u require jurisector is available 
+} // Thanks if any help u require jurisector is available ...
     return 0;
 }
